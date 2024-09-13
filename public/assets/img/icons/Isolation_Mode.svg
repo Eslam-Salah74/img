@@ -1,0 +1,21 @@
+<svg width="31" height="34" viewBox="0 0 31 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_81_382)">
+<path d="M15.6809 28.3952L14.1536 21.1001C13.8997 19.8778 12.9648 18.9147 11.753 18.6246L5.59375 17.1586L11.703 15.4954C12.9033 15.1704 13.8073 14.1764 14.0228 12.9463L15.3154 5.6048L16.8427 12.8999C17.0966 14.1222 18.0315 15.0853 19.2433 15.3754L25.4025 16.8414L19.2933 18.5047C18.093 18.8296 17.1889 19.8237 16.9735 21.0537L15.6809 28.3952Z" fill="#FFFBFD"/>
+<path d="M15.5 34C24.0604 34 31 26.3888 31 17C31 7.61116 24.0604 0 15.5 0C6.93959 0 0 7.61116 0 17C0 26.3888 6.93959 34 15.5 34Z" fill="url(#paint0_radial_81_382)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_81_382" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(15.5 17.0605) scale(15.5 16.9869)">
+<stop stop-color="white"/>
+<stop offset="0.14" stop-color="white" stop-opacity="0.5929"/>
+<stop offset="0.29" stop-color="white" stop-opacity="0.2916"/>
+<stop offset="0.43" stop-color="white" stop-opacity="0.1225"/>
+<stop offset="0.57" stop-color="white" stop-opacity="0.04"/>
+<stop offset="0.7" stop-color="white" stop-opacity="0.01"/>
+<stop offset="0.81" stop-color="white" stop-opacity="0.01"/>
+<stop offset="0.9" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_81_382">
+<rect width="31" height="34" fill="white"/>
+</clipPath>
+</defs>
+</svg>
